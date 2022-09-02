@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neverdull-agency/expo-unlimited-secure-store.git"
+    "url": "git+https://github.com/arjancornelissen/expo-unlimited-secure-store.git"
   },
   "keywords": [
     "expo",
@@ -29,10 +29,10 @@
     "secured",
     "storage"
   ],
-  "author": "Istvan Szilagyi <istvan@neverdull.nl>",
+  "author": "Arjan Cornelissen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neverdull-agency/expo-unlimited-secure-store/issues"
+    "url": "https://github.com/arjancornelissen/expo-unlimited-secure-store/issues"
   },
-  "homepage": "https://github.com/neverdull-agency/expo-unlimited-secure-store#readme"
+  "homepage": "https://github.com/arjancornelissen/expo-unlimited-secure-store#readme"
 }
