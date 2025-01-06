@@ -1,12 +1,12 @@
 {
   "name": "@worktogether/expo-unlimited-secure-store",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "An 'unlimited' secure store engine for expo projects, also compatible with redux-persist. (Expo's SecureStore was limited to 2KB in SDK v33)",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "peerDependencies": {
-    "expo-file-system": "~17.0.1",
-    "expo-secure-store": "~13.0.2"
+    "expo-file-system": "~18.0.6",
+    "expo-secure-store": "~14.0.0"
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1"
